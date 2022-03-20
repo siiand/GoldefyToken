@@ -5,6 +5,7 @@ goldefyToken
 Goldefy Doc
 https://docs.goldefy.com/
 
+<img src="https://goldefy.com/img/logo-comment.png">
 
 GER-01 | Initial Token Distribution
 
