@@ -8,6 +8,13 @@ Goldefy Doc
 https://docs.goldefy.com/
 
 
+
+<a href="https://github.com/siiand/GoldefyToken/blob/main/certik_audit.pdf">GoldeFy CertiK audit DOC.PDF</a>
+<a href="https://www.certik.com/projects/goldefy">Explore GoldeFy via CertiK</a>
+<a href="https://github.com/siiand/GoldefyToken/blob/main/zokyo%20audit.pdf">GoldeFy Zokyo audit DOC.PDF</a>
+
+
+
 GER-01 | Initial Token Distribution
 
 Recommendation to declare the initial token issuance amount globally and change it so that it can be checked externally
